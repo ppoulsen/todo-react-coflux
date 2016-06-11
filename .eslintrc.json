@@ -1,0 +1,17 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "root": true,
+  "rules": {
+    "camelcase": 0,
+    "display-name": [0],
+    "no-underscore-dangle": 0
+  },
+  "globals": {
+    "jest": true,
+    "before": true,
+    "describe": true,
+    "it": true,
+    "expect": true
+  }
+}
