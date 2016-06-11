@@ -8,7 +8,7 @@
     npm install
     npm start
 
-**NOTE:** Visiblity filter renders will not update the active link until blainekasten/coflux#17 is merged and published. Until then, will need to pull that coflux branch to run:
+**NOTE:** Visiblity filter renders will not update the active link until https://github.com/blainekasten/coflux/pull/17 is merged and published. Until then, will need to pull that coflux branch to run:
 
     git clone https://github.com/blainekasten/coflux.git
     cd coflux
